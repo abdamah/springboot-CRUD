@@ -34,7 +34,7 @@
 ### Installation
 
 - make a clone of this repo
-- git clone https://github.com/...
+- git clone https://github.com/abdamah/springboot-CRUD.git
 - Then open with your favorite editor
 - make sure you have downloaded all the dependencies
 - configure application.yml for H2 Database
