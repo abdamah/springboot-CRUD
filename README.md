@@ -6,14 +6,14 @@
 
 - spring boot web
 - 0spring boot jpa
-- lambok
 - spring Devtools
 - H2 Database
+- lambok
 
 ### Create Entity classes
 
--- Todo class: create properties
--- TodoStatus enum to represent the status of Todo.
+- Todo class: create properties with @Lombok, @Jpa annotations
+- TodoStatus enum to represent the status of Todo.
 
 ### Create Repository interface
 
@@ -25,13 +25,13 @@
 
 ### Create Service Impl
 
-- TodoServiceImpl: Implement all services methods with repositories
+- TodoServiceImpl: Implement all services methods with repositories @Service stereo type annotation
 
 ### Create Controller class
 
-- TodoController: Implement all endpoints methods with ResponseEntity types.
+- TodoController: Implement all endpoints methods with ResponseEntity types with @RestController stereo type annotation
 
-## Installation
+### Installation
 
 - make a clone of this repo
 - git clone https://github.com/...
