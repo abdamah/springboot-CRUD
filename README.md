@@ -2,6 +2,8 @@
 
 ## This project is for study purposes
 
+![Get Request](https://github.com/abdamah/springboot-CRUD/blob/main/get_request.png)
+
 ### Prepare dependencies
 
 - spring boot web
